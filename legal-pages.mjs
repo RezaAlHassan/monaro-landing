@@ -1,6 +1,6 @@
 // Public, script-free policy pages. Shared by the Worker, local preview and static build.
 // Review these service policies when the operator, providers or product behavior change.
-export const legalContact = 'rezahasan1198@gmail.com';
+export const legalContact = 'contact@getmonaro.app';
 const contact = `<a href="mailto:${legalContact}">${legalContact}</a>`;
 const updated = '15 November 2026';
 const documents = {
